@@ -1,4 +1,4 @@
-# Trabalho de IA - Machine Learning
+# Machine Learning Project
 
 ### Titanic Probability
 
@@ -11,8 +11,7 @@ No dia 14 de abril, enquanto passava por Queenstown, na Irlanda, por volta de 23
 A ferramenta escolhida foi a biblioteca **Scikit-learn** (também conhecida como sklearn), pois é possível encontrar diversas informações além de contar com exemplos de datasets incorporados, como de diagnostico de câncer de mama, diabetes entre outros.
 
 
-O dataset escolhido conta com registro reais de 887 tripulantes que estavam a bordo.que contam com as seguintes informações:
-
+O dataset escolhido conta com registro reais de 887 tripulantes que estavam a bordo que contam com as seguintes informações:
 
 - Indicador de sobrevivência
 - Classe embarcada.
